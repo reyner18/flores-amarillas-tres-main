@@ -47,7 +47,7 @@ body {
   top: 20px;               /* Distancia desde el borde superior */
   left: 50%; 
   font-weight: bold;
-  letter-spacing: -4px;
+  letter-spacing: 10px;
   text-align: center;
   opacity: 0;
   animation: fadeIn 3s ease-in-out forwards;
